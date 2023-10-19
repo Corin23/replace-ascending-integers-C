@@ -26,9 +26,9 @@ __The input file can be generated using the rand.c program.__
 ***
 Usage: 
 
-- compile using the Makefile with `make`
-- run the executables in terminal using ` ./rand` to generate the input file and ` ./num in.txt out.txt ` to generate the output file.
-- decompile using ` make clean`
++ compile using the Makefile with `make`
++ run the executables in terminal using ` ./rand` to generate the input file and ` ./num in.txt out.txt ` to generate the output file.
++ decompile using ` make clean`
 
 ***
 
