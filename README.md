@@ -17,8 +17,9 @@ out.txt
 987654321<br>
 3214567890<br>
 
-***
 In this example we are changing all the 123 numbers with 321 and order them in ascending order
+***
+
 
 __The input file can be generated using the rand.c program.__
 
