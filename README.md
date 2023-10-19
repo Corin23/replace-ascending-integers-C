@@ -8,18 +8,21 @@ Example:
 in.txt
 
 1234567890<br>
-1236
-987654321
+1236<br>
+987654321<br>
 
 out.txt
 
-3216
-987654321
-3214567890
+3216<br>
+987654321<br>
+3214567890<br>
 
 ***
+In this example we are changing all the 123 numbers with 321 and order them in ascending order
 
-__ The input file can be generated using the rand.c program. __
+__ 
+The input file can be generated using the rand.c program. 
+__
 
 **
 Usage: 
